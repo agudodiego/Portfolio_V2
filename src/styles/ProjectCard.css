@@ -1,0 +1,58 @@
+.pCard{
+    transition: 300ms;
+    box-shadow: 3px 3px 8px black;
+    width: 270px;
+    height: 190px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pCard:hover {
+    transform: scale(1.05);
+    box-shadow: 15px 15px 15px #111;
+    color: #fff
+}
+
+a, .pCard{
+    color: #444
+}
+
+.pr_icon{
+    width: 30px;
+}
+
+.pDescription{
+    font-weight: bold;
+    /* padding: 1rem; */
+}
+
+.pNumber{
+    font-weight: bold;
+    font-size: 3rem;    
+}
+
+.pText{
+    font-size: 1.2rem;
+}
+
+.pSource{
+    font-weight: normal;
+    font-style: italic;
+}
+
+.cardSup{
+    height: 65%;
+}
+
+.cardInf{
+    height: 35%;
+}
+
+.renderModal{
+}
+
+.btnModal{
+}
+
+.renderImg{
+}

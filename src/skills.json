@@ -1,0 +1,17 @@
+[
+    {
+      "categoria": "Development",
+      "iconos": ["html", "css", "bootstrap", "git", "javascript", "react", "java", "spring"],
+      "descripcion": "At present I am studying the Bachelor of Systems (UNLu). There I learned some of these technologies and tools but I have also incorporated knowledge through courses on various platforms and in a self-taught way."
+    },
+    {
+      "categoria": "Design & 3D Modeling",
+      "iconos": ["blender","solidworks","freeCad"],
+      "descripcion": "3d modeling and rendering software accompanied me from the beginning of my studies and during the development of my profession as a Designer. Today they are a perfect complement to show my ideas."
+    },
+    {
+      "categoria": "Graphic Design",
+      "iconos": ["photoshop","illustrator","gimp","inkscape"],
+      "descripcion": "I have experience in handling both, bitmaps and vector images software for retouching, logo generation, iconography, etc."
+    }
+  ]

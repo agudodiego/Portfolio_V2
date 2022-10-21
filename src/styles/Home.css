@@ -1,0 +1,71 @@
+:root{
+    --rojo--primario: #ed143d;
+    --rojo--primario--apagado: #9e0e28;
+}
+
+.home_container{
+    margin-top: 2rem;
+}
+
+.home_texto1 {
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+.home_texto3 {
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+
+.home_texto2 {
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.home_texto3--rojo{
+    color: var(--rojo--primario);
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.A3D{
+    animation-name: pulse;
+    animation-iteration-count: infinite;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    transition: all 400ms;
+}
+
+@keyframes pulse {
+
+    0% {filter: brightness(0.6);}
+    50% {filter: brightness(1);}
+    100% {filter: brightness(0.6);}
+}
+
+@media screen and (max-width: 480px) {
+    .home_container{
+        margin-top: 3rem;
+    }
+
+    .A3D{
+        width: 80%;
+        margin-left: 8%;
+        margin-top: 5%;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .home_texto2 {
+        font-size: 2.5rem;
+    }
+    .home_texto3--rojo {
+        font-size: 1.9rem;
+    }
+    .home_texto1 {
+        font-size: 1rem;
+    }
+    .home_texto3 {
+        font-size: 1.2rem;
+    }
+  }
