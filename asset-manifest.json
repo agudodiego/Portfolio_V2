@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio_V2/static/css/main.2b421fd8.css",
+    "main.js": "/Portfolio_V2/static/js/main.08c5af00.js",
+    "static/media/fondo_fcarbon.jpg": "/Portfolio_V2/static/media/fondo_fcarbon.3350c81d9f9f43b89746.jpg",
+    "static/media/A3D.png": "/Portfolio_V2/static/media/A3D.18d0c102384b7af4a2ce.png",
+    "static/media/CV_diegoAgudo_eng.pdf": "/Portfolio_V2/static/media/CV_diegoAgudo_eng.04f4bc23b5a97f7d95bc.pdf",
+    "static/media/CV_diegoAgudo.pdf": "/Portfolio_V2/static/media/CV_diegoAgudo.797857224fa097d1c2cc.pdf",
+    "static/media/render03.jpg": "/Portfolio_V2/static/media/render03.1eff6f2a3b8aa581c6fa.jpg",
+    "static/media/render01.jpg": "/Portfolio_V2/static/media/render01.e24844d13eccc3577a78.jpg",
+    "static/media/diegoAgudocircle.png": "/Portfolio_V2/static/media/diegoAgudocircle.df42ed6257b3d4d1ab28.png",
+    "static/media/logoAD.png": "/Portfolio_V2/static/media/logoAD.d87bd590839220766f61.png",
+    "static/media/render02.jpg": "/Portfolio_V2/static/media/render02.fa126470fae0a06f1790.jpg",
+    "static/media/gimp.png": "/Portfolio_V2/static/media/gimp.828901b96cebdd5b4ecf.png",
+    "static/media/react.png": "/Portfolio_V2/static/media/react.4c16b4f731418be3780d.png",
+    "static/media/solidworks.png": "/Portfolio_V2/static/media/solidworks.6647c7295d9851fc572c.png",
+    "static/media/java.png": "/Portfolio_V2/static/media/java.c370c5a39b10bb755d84.png",
+    "static/media/freeCad.png": "/Portfolio_V2/static/media/freeCad.e2005c6308e87cbbf6d0.png",
+    "static/media/spring.png": "/Portfolio_V2/static/media/spring.3f12f9acf773208e372d.png",
+    "static/media/inkscape.png": "/Portfolio_V2/static/media/inkscape.cadcd1fd49f4b85f621c.png",
+    "static/media/blender.png": "/Portfolio_V2/static/media/blender.1c7d773280922ab534d5.png",
+    "static/media/github.png": "/Portfolio_V2/static/media/github.5368dd6c9f2a78e5d070.png",
+    "static/media/photoshop.png": "/Portfolio_V2/static/media/photoshop.bfaa30064dd5e6a2c176.png",
+    "static/media/bootstrap.png": "/Portfolio_V2/static/media/bootstrap.3845f9354b3ee3ea3292.png",
+    "static/media/css.png": "/Portfolio_V2/static/media/css.8f3ac9f977f0cce2f3bb.png",
+    "static/media/html.png": "/Portfolio_V2/static/media/html.495c31bcae2783c5af66.png",
+    "static/media/javascript.png": "/Portfolio_V2/static/media/javascript.4c55f0704a59683ebc8b.png",
+    "static/media/git.png": "/Portfolio_V2/static/media/git.00427e0c76e19e08b330.png",
+    "static/media/illustrator.png": "/Portfolio_V2/static/media/illustrator.c74ca63c46ea17823165.png",
+    "index.html": "/Portfolio_V2/index.html",
+    "main.2b421fd8.css.map": "/Portfolio_V2/static/css/main.2b421fd8.css.map",
+    "main.08c5af00.js.map": "/Portfolio_V2/static/js/main.08c5af00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b421fd8.css",
+    "static/js/main.08c5af00.js"
+  ]
+}
