@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_V2/static/css/main.2b421fd8.css",
-    "main.js": "/Portfolio_V2/static/js/main.6f8a2ed5.js",
+    "main.js": "/Portfolio_V2/static/js/main.12a1464f.js",
     "static/media/fondo_fcarbon.jpg": "/Portfolio_V2/static/media/fondo_fcarbon.3350c81d9f9f43b89746.jpg",
     "static/media/A3D.png": "/Portfolio_V2/static/media/A3D.18d0c102384b7af4a2ce.png",
     "static/media/CV_diegoAgudo_eng.pdf": "/Portfolio_V2/static/media/CV_diegoAgudo_eng.04f4bc23b5a97f7d95bc.pdf",
@@ -29,10 +29,10 @@
     "static/media/illustrator.png": "/Portfolio_V2/static/media/illustrator.c74ca63c46ea17823165.png",
     "index.html": "/Portfolio_V2/index.html",
     "main.2b421fd8.css.map": "/Portfolio_V2/static/css/main.2b421fd8.css.map",
-    "main.6f8a2ed5.js.map": "/Portfolio_V2/static/js/main.6f8a2ed5.js.map"
+    "main.12a1464f.js.map": "/Portfolio_V2/static/js/main.12a1464f.js.map"
   },
   "entrypoints": [
     "static/css/main.2b421fd8.css",
-    "static/js/main.6f8a2ed5.js"
+    "static/js/main.12a1464f.js"
   ]
 }
