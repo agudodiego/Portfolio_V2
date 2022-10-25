@@ -1,0 +1,128 @@
+[
+    {
+      "description": "Web Layout",
+      "source": "- Udemy",
+      "color": "#FFC300",
+      "category": "Training",
+      "number": "01",
+      "icons": ["html", "css"],
+      "url": "https://agudodiego.github.io/Maqueta1Curso/"
+    },
+    {
+      "description": "Web Layout",
+      "source": "- Udemy",
+      "color": "#FFC300",
+      "category": "Training",
+      "number": "02",
+      "icons": ["html", "css"],
+      "url": "https://agudodiego.github.io/Maqueta2Curso/"
+    },
+    {
+      "description": "Web Layout (Rock Band)",
+      "source": "- YouTube",
+      "color": "#FFC300",
+      "category": "Training",
+      "number": "03",
+      "icons": ["html", "css"],
+      "url": "https://agudodiego.github.io/Maquetacion-web-Banda/"
+    },
+    {
+      "description": "Web Layout (Yoga Studio)",
+      "source": "- YouTube",
+      "color": "#FFC300",
+      "category": "Training",
+      "number": "04",
+      "icons": ["html", "css"],
+      "url": "https://agudodiego.github.io/Maquetacion-web-Yoga-/"
+    },
+    {
+      "description": "Teams App",
+      "source": "- FreeCodeCamp",
+      "color": "#FFC300",
+      "category": "Training",
+      "number": "05",
+      "icons": ["react", "bootstrap"],
+      "url": "https://agudodiego.github.io/teams_React/"
+    },
+    {
+      "description": "Meals App",
+      "source": "- FreeCodeCamp",
+      "color": "#FFC300",
+      "category": "Training",
+      "number": "06",
+      "icons": ["react", "bootstrap"],
+      "url": "https://agudodiego.github.io/meals_React/"
+    },
+    {
+      "description": "Training HTML + CSS + JS",
+      "source": "",
+      "color": "#FF5733",
+      "category": "Personal Project",
+      "number": "01",
+      "icons": ["html", "css", "javascript"],
+      "url": "https://agudodiego.github.io/Practica_JS/"
+    },
+    {
+      "description": "Asistente de Preguntas para Trivias",
+      "source": "",
+      "color": "#FF5733",
+      "category": "Personal Project",
+      "number": "02",
+      "icons": ["html", "css", "javascript"],
+      "url": "https://agudodiego.github.io/Asistente_Trivias/"
+    },
+    {
+      "description": "Simon-Says",
+      "source": "",
+      "color": "#FF5733",
+      "category": "Personal Project",
+      "number": "03",
+      "icons": ["html", "css", "javascript"],
+      "url": "https://agudodiego.github.io/Simon_says/"
+    },
+    {
+      "description": "Ochenta3d",
+      "source": "(in progress)",
+      "color": "#FF5733",
+      "category": "Personal Project",
+      "number": "04",
+      "icons": ["html", "css", "javascript", "bootstrap"],
+      "url": "https://agudodiego.github.io/ochenta3d_V2/"
+    },
+    {
+      "description": "Tetris Shop",
+      "source": "CUCH - UNTREF",
+      "color": "#FF5733",
+      "category": "Personal Project",
+      "number": "05",
+      "icons": ["html", "css", "javascript", "bootstrap"],
+      "url": "https://agudodiego.github.io/TetrisShop/"
+    },
+    {
+      "description": "Playmovil",
+      "source": "",
+      "color": "#C70039",
+      "category": "3D Modeling",
+      "number": "01",
+      "icons": ["solidworks", "blender", "photoshop"],
+      "url": "render01"
+    },
+    {
+      "description": "Truck Crane",
+      "source": "- Mis Ladrillos",
+      "color": "#C70039",
+      "category": "3D Modeling",
+      "number": "02",
+      "icons": ["blender", "photoshop"],
+      "url": "render02"
+    },
+    {
+      "description": "Video Game Console",
+      "source": "",
+      "color": "#C70039",
+      "category": "3D Modeling",
+      "number": "03",
+      "icons": ["solidworks", "blender", "photoshop"],
+      "url": "render03"
+    }
+  ]

@@ -13,7 +13,7 @@ const Contact = ()=> {
                 </div>
             </div>
             <div className="row">
-                <h3>agudod@hotmail.com</h3>
+                <h3>this.agudev@gmail.com</h3>
             </div>
         </div>
     )

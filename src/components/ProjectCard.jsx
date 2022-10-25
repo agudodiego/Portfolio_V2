@@ -9,7 +9,7 @@ const CardBody = ({ project }) => {
           {
             project.icons.map((icono, index) => {
               return (
-                <img key={index} className="pr_icon mx-2" src={icono} />
+                <img key={index} className="pr_icon mx-2" src={require(`../images/logos/${icono}.png`)} />
               )
             })
           }
