@@ -18,15 +18,14 @@ const About = () => {
           <img src={diego} className="w-100" />
         </div>
         <p className="texto_foto text-light text-center">
-          I was born in a small town located in the northwest of the Buenos Aires province,
-          where I lived until finishing High School. <br />
-          Then I moved to Buenos Aires city to study Industrial Design at UBA University,
-          although I am currently focusing on my career as a developer <br />
-          I consider myself a curious person, with a self-improvement desire and committed with continuous learning,
-          both characteristics that led me to live in the United States (N.Y) and South Korea (Seoul)
+          I was born in Carlos Tejedor, a small town located in the northwest of Buenos Aires, 500km. away from C.A.B.A,
+          where I moved after finishing Highschool. <br />
+          Although I earned my bachelorś degree as an Industrial Designer (UBA), i am currently pursuing a career as a developer <br />
+          I am inherently curious, that's why i believe everything we encounter embodies a learning experience and that there is always
+          room for self-improvement. It was my curiosity tht led me to live in the United States (N.Y) and South Korea (Seoul)
           where I worked and studied respectively. <br />
-          Through these experiences I acquired a multicultural vision of the world that surrounds us,
-          also improving my ability to adapt to different environments and heterogeneous work groups.
+          Through these multicultural experiences I improved my ability to adapt to different environments and heterogeneous work groups
+          and, most importantly, i gained a new perspective of the world we are inmersed in.
         </p>
       </div>
       <div className="skills col-md-6 d-flex flex-column justify-content-between">

@@ -1,7 +1,6 @@
 import '../styles/Header.css';
 import { Link } from "react-router-dom";
 import logo from '../images/logos/logoAD.png';
-import { MdLanguage } from "react-icons/md";
 
 const Header = () => {
   return (
