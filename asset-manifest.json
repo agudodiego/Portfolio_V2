@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_V2/static/css/main.2b421fd8.css",
-    "main.js": "/Portfolio_V2/static/js/main.3100fc10.js",
+    "main.js": "/Portfolio_V2/static/js/main.2e156dc3.js",
     "static/media/fondo_fcarbon.jpg": "/Portfolio_V2/static/media/fondo_fcarbon.3350c81d9f9f43b89746.jpg",
     "static/media/A3D.png": "/Portfolio_V2/static/media/A3D.18d0c102384b7af4a2ce.png",
     "static/media/CV_diegoAgudo_eng.pdf": "/Portfolio_V2/static/media/CV_diegoAgudo_eng.1c55c29d6f8db85e4ebb.pdf",
@@ -20,6 +20,7 @@
     "static/media/inkscape.png": "/Portfolio_V2/static/media/inkscape.cadcd1fd49f4b85f621c.png",
     "static/media/blender.png": "/Portfolio_V2/static/media/blender.1c7d773280922ab534d5.png",
     "static/media/github.png": "/Portfolio_V2/static/media/github.5368dd6c9f2a78e5d070.png",
+    "static/media/firebase.png": "/Portfolio_V2/static/media/firebase.6cd0da2ade36c504472b.png",
     "static/media/photoshop.png": "/Portfolio_V2/static/media/photoshop.bfaa30064dd5e6a2c176.png",
     "static/media/bootstrap.png": "/Portfolio_V2/static/media/bootstrap.3845f9354b3ee3ea3292.png",
     "static/media/css.png": "/Portfolio_V2/static/media/css.8f3ac9f977f0cce2f3bb.png",
@@ -29,10 +30,10 @@
     "static/media/illustrator.png": "/Portfolio_V2/static/media/illustrator.c74ca63c46ea17823165.png",
     "index.html": "/Portfolio_V2/index.html",
     "main.2b421fd8.css.map": "/Portfolio_V2/static/css/main.2b421fd8.css.map",
-    "main.3100fc10.js.map": "/Portfolio_V2/static/js/main.3100fc10.js.map"
+    "main.2e156dc3.js.map": "/Portfolio_V2/static/js/main.2e156dc3.js.map"
   },
   "entrypoints": [
     "static/css/main.2b421fd8.css",
-    "static/js/main.3100fc10.js"
+    "static/js/main.2e156dc3.js"
   ]
 }
