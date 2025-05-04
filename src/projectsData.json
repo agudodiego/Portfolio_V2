@@ -72,17 +72,20 @@
     "url": "https://agudodiego.github.io/meals_React/"
   },
   {
-    "description": "Training HTML + CSS + JS",
+    "description": "quePagué",
     "source": "",
     "color": "#FF5733",
     "category": "Personal Project",
     "number": "01",
     "icons": [
-      "html",
-      "css",
-      "javascript"
+      "angular",
+      "bootstrap",
+      "springboot",
+      "mysql",
+      "docker",
+      "ubuntuserver"
     ],
-    "url": "https://agudodiego.github.io/Practica_JS/"
+    "url": "http://quepague.diegoagudo.com.ar"
   },
   {
     "description": "Asistente de Preguntas para Trivias",
@@ -91,11 +94,12 @@
     "category": "Personal Project",
     "number": "02",
     "icons": [
-      "html",
-      "css",
-      "javascript"
+      "springboot",
+      "mysql",
+      "docker",
+      "ubuntuserver"
     ],
-    "url": "https://agudodiego.github.io/Asistente_Trivias/"
+    "url": "http://trivia.diegoagudo.com.ar"
   },
   {
     "description": "Simon-Says",
@@ -137,19 +141,6 @@
       "bootstrap"
     ],
     "url": "https://agudodiego.github.io/TetrisShop/"
-  },
-  {
-    "description": "quePagué",
-    "source": "",
-    "color": "#FF5733",
-    "category": "Personal Project",
-    "number": "06",
-    "icons": [
-      "react",
-      "bootstrap",
-      "firebase"
-    ],
-    "url": "https://github.com/agudodiego/quePague"
   },
   {
     "description": "Playmovil",

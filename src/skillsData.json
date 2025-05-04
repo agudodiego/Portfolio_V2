@@ -1,8 +1,8 @@
 [
     {
       "categoria": "Development",
-      "iconos": ["html", "css", "bootstrap", "git", "javascript", "react", "java", "spring", "firebase"],
-      "descripcion": "At present I am studying the Bachelor of Systems (UNLu). There I learned some of these technologies and tools but I have also incorporated knowledge through courses on various platforms and in a self-taught way."
+      "iconos": ["html", "css", "bootstrap", "git", "javascript", "angular", "java", "springboot", "mysql", "docker", "ubuntuserver"],
+      "descripcion": "I’m currently studying for a Bachelor’s degree in Systems at UNLu. While I’ve learned some technologies and tools through the program, I’ve also gained knowledge through online courses on various platforms and through self-teaching."
     },
     {
       "categoria": "Design & 3D Modeling",

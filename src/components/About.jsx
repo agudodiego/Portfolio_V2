@@ -9,7 +9,7 @@ const About = () => {
     <motion.div className="about_container container d-sm-flex justify-content-between"
       //Framer Motion attributes
       initial={{ opacity: 0 }}
-      animate={{ opacity: 1}}
+      animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
     >
 
@@ -18,14 +18,13 @@ const About = () => {
           <img src={diego} className="w-100" />
         </div>
         <p className="texto_foto text-light text-center">
-          I was born in Carlos Tejedor, a small town located in the northwest of Buenos Aires, 500km. away from C.A.B.A,
-          where I moved after finishing Highschool. <br />
-          Although I earned my bachelorś degree as an Industrial Designer (UBA), i am currently pursuing a career as a developer <br />
-          I am inherently curious, that's why i believe everything we encounter embodies a learning experience and that there is always
-          room for self-improvement. It was my curiosity tht led me to live in the United States (N.Y) and South Korea (Seoul)
-          where I worked and studied respectively. <br />
-          Through these multicultural experiences I improved my ability to adapt to different environments and heterogeneous work groups
-          and, most importantly, i gained a new perspective of the world we are inmersed in.
+          I was born in Carlos Tejedor, a small town in the northwest of Buenos Aires, about 500 km from Buenos Aires City (C.A.B.A.), 
+          where I moved after finishing high school. <br />
+          Although I earned a bachelor’s degree in Industrial Design from the University of Buenos Aires (UBA), 
+          I’m currently building a career as a developer. <br />
+          I’m naturally curious, which is why I believe every experience offers something to learn and that there’s always room for personal growth.
+          That curiosity led me to live in the United States (New York) and South Korea (Seoul), where I worked and studied, respectively.
+          These multicultural experiences helped me become more adaptable to different environments and diverse teams, and most importantly, they gave me a broader perspective on the world we live in.
         </p>
       </div>
       <div className="skills col-md-6 d-flex flex-column justify-content-between">
