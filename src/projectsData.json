@@ -79,7 +79,6 @@
     "number": "01",
     "icons": [
       "angular",
-      "bootstrap",
       "springboot",
       "mysql",
       "docker",
