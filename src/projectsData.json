@@ -9,7 +9,8 @@
       "html",
       "css"
     ],
-    "url": "https://agudodiego.github.io/Maquetacion-web-Banda/"
+    "url": "https://agudodiego.github.io/Maquetacion-web-Banda/",
+    "linkGithub": "https://github.com/agudodiego/Maquetacion-web-Banda"
   },
   {
     "description": "Web Layout (Yoga Studio)",
@@ -21,7 +22,8 @@
       "html",
       "css"
     ],
-    "url": "https://agudodiego.github.io/Maquetacion-web-Yoga-/"
+    "url": "https://agudodiego.github.io/Maquetacion-web-Yoga-/",
+    "linkGithub": "https://github.com/agudodiego/Maquetacion-web-Yoga-"
   },
   {
     "description": "Tetris Shop",
@@ -35,7 +37,8 @@
       "javascript",
       "bootstrap"
     ],
-    "url": "https://agudodiego.github.io/TetrisShop/"
+    "url": "https://agudodiego.github.io/TetrisShop/",
+    "linkGithub": "https://github.com/agudodiego/TetrisShop"
   },
   {
     "description": "Teams App",
@@ -47,7 +50,8 @@
       "react",
       "bootstrap"
     ],
-    "url": "https://agudodiego.github.io/teams_React/"
+    "url": "https://agudodiego.github.io/teams_React/",
+    "linkGithub": "https://github.com/agudodiego/teams_React"
   },
   {
     "description": "Meals App",
@@ -59,26 +63,28 @@
       "react",
       "bootstrap"
     ],
-    "url": "https://agudodiego.github.io/meals_React/"
+    "url": "https://agudodiego.github.io/meals_React/",
+    "linkGithub": "https://github.com/agudodiego/meals_React"
   },
   {
     "description": "Simon-Says",
     "source": "",
     "color": "#FF5733",
-    "category": "Personal Project",
+    "category": "Projects",
     "number": "01",
     "icons": [
       "html",
       "css",
       "javascript"
     ],
-    "url": "https://agudodiego.github.io/Simon_says/"
+    "url": "https://agudodiego.github.io/Simon_says/",
+    "linkGithub": ""
   },
   {
     "description": "Ochenta3d",
     "source": "(in progress)",
     "color": "#FF5733",
-    "category": "Personal Project",
+    "category": "Projects",
     "number": "02",
     "icons": [
       "html",
@@ -86,13 +92,14 @@
       "javascript",
       "bootstrap"
     ],
-    "url": "https://agudodiego.github.io/ochenta3d_V2/"
+    "url": "https://agudodiego.github.io/ochenta3d_V2/",
+    "linkGithub": ""
   },
   {
     "description": "quePagué",
     "source": "",
     "color": "#FF5733",
-    "category": "Personal Project",
+    "category": "Projects",
     "number": "03",
     "icons": [
       "angular",
@@ -101,13 +108,14 @@
       "docker",
       "ubuntuserver"
     ],
-    "url": "http://quepague.diegoagudo.com.ar"
+    "url": "http://quepague.diegoagudo.com.ar",
+    "linkGithub": "https://github.com/agudodiego/quePague-Backend-SpringBoot"
   },
   {
     "description": "Asistente de Preguntas para Trivias",
     "source": "",
     "color": "#FF5733",
-    "category": "Personal Project",
+    "category": "Projects",
     "number": "04",
     "icons": [
       "springboot",
@@ -115,7 +123,8 @@
       "docker",
       "ubuntuserver"
     ],
-    "url": "http://trivia.diegoagudo.com.ar"
+    "url": "http://trivia.diegoagudo.com.ar",
+    "linkGithub": "https://github.com/agudodiego/triviaAssistant_v2"
   },
   {
     "description": "Playmovil",
@@ -128,7 +137,8 @@
       "blender",
       "photoshop"
     ],
-    "url": "render01"
+    "url": "render01",
+    "linkGithub": ""
   },
   {
     "description": "Truck Crane",
@@ -140,7 +150,8 @@
       "blender",
       "photoshop"
     ],
-    "url": "render02"
+    "url": "render02",
+    "linkGithub": ""
   },
   {
     "description": "Video Game Console",
@@ -153,6 +164,7 @@
       "blender",
       "photoshop"
     ],
-    "url": "render03"
+    "url": "render03",
+    "linkGithub": ""
   }
 ]

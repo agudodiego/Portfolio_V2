@@ -17,6 +17,15 @@ a, .pCard{
     color: #444
 }
 
+.linkgit {
+  display: inline-block;
+  transition: transform 0.2s ease; /* suaviza el efecto */
+}
+
+.linkgit:hover {
+  transform: scale(1.3); /* agranda un 20% al pasar el mouse */
+}
+
 .pr_icon{
     width: 30px;
 }
