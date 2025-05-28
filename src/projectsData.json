@@ -1,34 +1,10 @@
 [
   {
-    "description": "Web Layout",
-    "source": "- Udemy",
-    "color": "#FFC300",
-    "category": "Training",
-    "number": "01",
-    "icons": [
-      "html",
-      "css"
-    ],
-    "url": "https://agudodiego.github.io/Maqueta1Curso/"
-  },
-  {
-    "description": "Web Layout",
-    "source": "- Udemy",
-    "color": "#FFC300",
-    "category": "Training",
-    "number": "02",
-    "icons": [
-      "html",
-      "css"
-    ],
-    "url": "https://agudodiego.github.io/Maqueta2Curso/"
-  },
-  {
     "description": "Web Layout (Rock Band)",
     "source": "- YouTube",
     "color": "#FFC300",
     "category": "Training",
-    "number": "03",
+    "number": "01",
     "icons": [
       "html",
       "css"
@@ -40,7 +16,7 @@
     "source": "- YouTube",
     "color": "#FFC300",
     "category": "Training",
-    "number": "04",
+    "number": "02",
     "icons": [
       "html",
       "css"
@@ -48,11 +24,25 @@
     "url": "https://agudodiego.github.io/Maquetacion-web-Yoga-/"
   },
   {
+    "description": "Tetris Shop",
+    "source": "CUCH - UNTREF",
+    "color": "#FFC300",
+    "category": "Training",
+    "number": "03",
+    "icons": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap"
+    ],
+    "url": "https://agudodiego.github.io/TetrisShop/"
+  },
+  {
     "description": "Teams App",
     "source": "- FreeCodeCamp",
     "color": "#FFC300",
     "category": "Training",
-    "number": "05",
+    "number": "04",
     "icons": [
       "react",
       "bootstrap"
@@ -64,7 +54,7 @@
     "source": "- FreeCodeCamp",
     "color": "#FFC300",
     "category": "Training",
-    "number": "06",
+    "number": "05",
     "icons": [
       "react",
       "bootstrap"
@@ -72,11 +62,38 @@
     "url": "https://agudodiego.github.io/meals_React/"
   },
   {
-    "description": "quePagué",
+    "description": "Simon-Says",
     "source": "",
     "color": "#FF5733",
     "category": "Personal Project",
     "number": "01",
+    "icons": [
+      "html",
+      "css",
+      "javascript"
+    ],
+    "url": "https://agudodiego.github.io/Simon_says/"
+  },
+  {
+    "description": "Ochenta3d",
+    "source": "(in progress)",
+    "color": "#FF5733",
+    "category": "Personal Project",
+    "number": "02",
+    "icons": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap"
+    ],
+    "url": "https://agudodiego.github.io/ochenta3d_V2/"
+  },
+  {
+    "description": "quePagué",
+    "source": "",
+    "color": "#FF5733",
+    "category": "Personal Project",
+    "number": "03",
     "icons": [
       "angular",
       "springboot",
@@ -91,7 +108,7 @@
     "source": "",
     "color": "#FF5733",
     "category": "Personal Project",
-    "number": "02",
+    "number": "04",
     "icons": [
       "springboot",
       "mysql",
@@ -99,47 +116,6 @@
       "ubuntuserver"
     ],
     "url": "http://trivia.diegoagudo.com.ar"
-  },
-  {
-    "description": "Simon-Says",
-    "source": "",
-    "color": "#FF5733",
-    "category": "Personal Project",
-    "number": "03",
-    "icons": [
-      "html",
-      "css",
-      "javascript"
-    ],
-    "url": "https://agudodiego.github.io/Simon_says/"
-  },
-  {
-    "description": "Ochenta3d",
-    "source": "(in progress)",
-    "color": "#FF5733",
-    "category": "Personal Project",
-    "number": "04",
-    "icons": [
-      "html",
-      "css",
-      "javascript",
-      "bootstrap"
-    ],
-    "url": "https://agudodiego.github.io/ochenta3d_V2/"
-  },
-  {
-    "description": "Tetris Shop",
-    "source": "CUCH - UNTREF",
-    "color": "#FF5733",
-    "category": "Personal Project",
-    "number": "05",
-    "icons": [
-      "html",
-      "css",
-      "javascript",
-      "bootstrap"
-    ],
-    "url": "https://agudodiego.github.io/TetrisShop/"
   },
   {
     "description": "Playmovil",
