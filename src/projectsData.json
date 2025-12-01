@@ -81,8 +81,8 @@
     "linkGithub": ""
   },
   {
-    "description": "Ochenta3d",
-    "source": "(in progress)",
+    "description": "Huellitas",
+    "source": "",
     "color": "#FF5733",
     "category": "Projects",
     "number": "02",
@@ -90,10 +90,11 @@
       "html",
       "css",
       "javascript",
-      "bootstrap"
+      "springboot",
+      "mysql"
     ],
-    "url": "https://agudodiego.github.io/ochenta3d_V2/",
-    "linkGithub": ""
+    "url": "https://huellitas.diegoagudo.com.ar",
+    "linkGithub": "https://github.com/agudodiego/huellitas_frontend"
   },
   {
     "description": "quePagué",
@@ -108,7 +109,7 @@
       "docker",
       "ubuntuserver"
     ],
-    "url": "http://quepague.diegoagudo.com.ar",
+    "url": "https://quepague.diegoagudo.com.ar",
     "linkGithub": "https://github.com/agudodiego/quePague-Backend-SpringBoot"
   },
   {
